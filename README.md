@@ -1,3 +1,0 @@
-# Android-Quiz-App
-It is an Android App to conduct technical quiz on different technologies and programming languages....
-

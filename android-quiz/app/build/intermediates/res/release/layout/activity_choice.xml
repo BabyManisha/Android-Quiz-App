@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingTop="5dip"
+    android:paddingBottom="5dip"
+    android:gravity="center_vertical|center_horizontal"
+    android:baselineAligned="false"
+    android:background="@android:color/white"
+    android:id="@+id/llayout"
+    android:textAlignment="center">
+
+
+    <Button
+        android:background="@android:color/holo_blue_light"
+        android:id="@+id/langBtn"
+        android:layout_width="300px"
+        android:layout_height="wrap_content"
+        android:text="@string/lang_btn"
+        android:fontFamily="sans-serif-light"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="40dp"
+        android:onClick="startNewGame"
+        android:textStyle="bold"
+        android:layout_marginBottom="20dp"
+        android:longClickable="false"
+        android:focusableInTouchMode="true" />
+    <Button
+        android:background="@android:color/holo_orange_dark"
+        android:id="@+id/dbmsBtn"
+        android:layout_width="300px"
+        android:layout_height="wrap_content"
+        android:text="@string/dbms_btn"
+        android:fontFamily="sans-serif-light"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:nestedScrollingEnabled="false"
+        android:onClick="startNewGame"
+        android:textStyle="bold"
+        android:focusableInTouchMode="true" />
+
+    <Button
+        android:background="@android:color/holo_green_light"
+        android:id="@+id/osBtn"
+        android:layout_width="300px"
+        android:layout_height="wrap_content"
+        android:text="@string/os_btn"
+        android:fontFamily="sans-serif-light"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="20dp"
+        android:onClick="startNewGame"
+        android:layout_marginBottom="40dp"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="bold"
+        android:focusableInTouchMode="true" />
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Siva/AndroidStudioProjects/android-quiz-parse-example-1b8e32aa9f375e408d9f84407899b929cacd447c/app/src/main/res/layout/activity_choice.xml -->

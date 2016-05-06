@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Siva\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\Siva\AndroidStudioProjects\android-quiz-parse-example-1b8e32aa9f375e408d9f84407899b929cacd447c\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-282fb707cdda04393956c2904620449b5e151d12.jar" />
+    </item>
+    <item
+        jar="C:\Users\Siva\AndroidStudioProjects\android-quiz-parse-example-1b8e32aa9f375e408d9f84407899b929cacd447c\app\libs\Parse-1.8.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd491448169a0c142a786164b249139d2407a6f9">
+        <dex dex="C:\Users\Siva\AndroidStudioProjects\android-quiz-parse-example-1b8e32aa9f375e408d9f84407899b929cacd447c\app\build\intermediates\pre-dexed\debug\Parse-1.8.1-39277d93460e53169ae9ca523e48f25fa7f8d45a.jar" />
+    </item>
+
+</items>
